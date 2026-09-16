@@ -1,2 +1,2 @@
 # pokeko
-quick random Pokémon battles, served over ssh
+random pokémon battles over ssh

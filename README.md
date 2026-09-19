@@ -1,2 +1,2 @@
-# pokeko
-random pokémon battles over ssh
+# bashmon
+pokémon battles over ssh

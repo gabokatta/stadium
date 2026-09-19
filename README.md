@@ -1,2 +1,2 @@
-# bashmon
+# stadium
 pokémon battles over ssh

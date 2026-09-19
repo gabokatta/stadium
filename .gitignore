@@ -5,7 +5,7 @@
 .vscode/
 
 # binaries
-/bashmon
+/stadium
 /bin/
 /dist/
 *.exe
